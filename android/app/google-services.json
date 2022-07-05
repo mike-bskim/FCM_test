@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "882066169851",
+    "project_id": "honge-push-notification",
+    "storage_bucket": "honge-push-notification.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:882066169851:android:2e1880d52a6e73abb3f55e",
+        "android_client_info": {
+          "package_name": "com.honge.push.notification.push_notification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "882066169851-akim53lkc3rorlgm22eg3i06tsno72bt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrLTKIOuVSdvt5sG6sRgM2z8_YOfU5n6c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "882066169851-akim53lkc3rorlgm22eg3i06tsno72bt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
